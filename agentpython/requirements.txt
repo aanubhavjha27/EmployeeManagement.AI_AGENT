@@ -1,0 +1,31 @@
+# Core Web Framework
+fastapi
+uvicorn[standard]
+
+# LangChain & LangGraph
+langchain
+langchain-core
+langchain-groq
+langchain-community
+langgraph
+
+# OpenAI Integration
+openai
+
+# HTTP & Networking
+requests
+httpx
+
+# Data Validation
+pydantic
+pydantic-settings
+
+# Environment & Config
+python-dotenv
+
+# Utilities
+python-multipart
+typing-extensions
+
+# Optional: Better Logging
+loguru
